@@ -22,7 +22,7 @@ DevOps | TOTVS Fluig
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willycosta_@outlook.com)
 
 ## Contribuições
-![Snake animation](https://github.com/SEU_USERNAME/willycosta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/willycosta/willycosta/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
