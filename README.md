@@ -6,9 +6,8 @@ Desenvolvedor com mais de 5 anos de experiência, apaixonado por resolver proble
 ## Tech Stack 🚀
 ```
 JavaScript | TypeScript | Java | Lua | Python | C
-React | React Native | Express | NestJS
-SQL & NoSQL Databases
-DevOps | TOTVS Fluig
+React | Express | NestJS
+SQL | TOTVS Fluig
 ```
 
 ## Estatísticas GitHub
